@@ -1,0 +1,21 @@
+# ninja log v6
+0	18	1743503524607720627	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8d4d933dca9a24d1
+0	18	1743503524607720627	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8d4d933dca9a24d1
+19	2196	1743503526785678936	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a194f3a754e95e79
+19	2196	1743503526785678936	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a194f3a754e95e79
+2196	2207	1743503526796635599	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	56afa278ade3f309
+2196	2207	1743503526796635599	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	56afa278ade3f309
+2207	2218	1743503526807406762	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	de2a8e5e99cd20d0
+2207	2218	1743503526807406762	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	de2a8e5e99cd20d0
+2218	2228	1743503526817418217	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3b03617a5a81edff
+2218	2228	1743503526817418217	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3b03617a5a81edff
+2228	2239	1743503526828719588	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b1d0469b392c241
+2228	2239	1743503526828719588	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b1d0469b392c241
+2239	2249	1743503526838747210	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bfffeda012b1fe42
+2239	2249	1743503526838747210	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bfffeda012b1fe42
+2249	2259	1743503526848499373	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3171c24c22f47a98
+2249	2259	1743503526848499373	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3171c24c22f47a98
+2259	2273	1743503526862083119	CMakeFiles/googletest-populate-complete	a9f0b2506fdcf751
+2259	2273	1743503526862083119	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a9f0b2506fdcf751
+2259	2273	1743503526862083119	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	a9f0b2506fdcf751
+2259	2273	1743503526862083119	/Users/romankrecetov/Desktop/SekiWithoutQueue/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a9f0b2506fdcf751

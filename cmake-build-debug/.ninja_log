@@ -1,0 +1,18 @@
+# ninja log v6
+0	690	1743503359253100543	CMakeFiles/SekiWithoutQueue.dir/main.cpp.o	2eb25df4cdb99888
+692	719	1743503359944870938	SekiWithoutQueue	2dffc2a59173da0d
+2	10	1743503540485677872	clean	ad90e366ad70d77b
+4	764	1743503540774499316	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	96f906dc9cdeae31
+4	1004	1743503540774618983	CMakeFiles/SekiWithoutQueue.dir/main.cpp.o	2eb25df4cdb99888
+4	1018	1743503540774745399	CMakeFiles/SekiTests.dir/tests/BoardTest.cpp.o	5e01703dcfe8e13d
+4	1076	1743503540775103149	CMakeFiles/SekiTests.dir/tests/BotTest.cpp.o	fe1ad6b738ce032b
+1018	1132	1743503541788666559	SekiWithoutQueue	2dffc2a59173da0d
+764	1270	1743503541535151436	CMakeFiles/SekiTests.dir/tests/TestMain.cpp.o	cfd3bdc69562b4a6
+4	1301	1743503540774361483	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	5652a4cc5c8cac5f
+1004	1491	1743503541774908355	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	1a4a016a450167a1
+3	1789	1743503540774107524	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	b39334b0ae6f85f6
+1790	1846	1743503542560333216	lib/libgtest.a	f3e2e0260090b16a
+1846	1862	1743503542616807072	lib/libgtest_main.a	173d721be4f94a5c
+1846	1870	1743503542616650822	lib/libgmock.a	6e71069340886522
+1870	1887	1743503542640542397	lib/libgmock_main.a	9b9bd9e61e263a61
+1862	1894	1743503542633184441	SekiTests	90872febadfa735e
